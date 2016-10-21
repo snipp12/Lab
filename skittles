@@ -1,2 +1,4 @@
 Define Skittles [red, blue, orange, green, yellow, purple]
 Skittles.random
+User Prompt "Would you like to play?"
+  if User Prompt = yes (Skittles.random x 5)
